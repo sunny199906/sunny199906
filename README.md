@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Sunny
-- 🔭 I’m a Unity and C# developer
+- 🔭 I’m a full-stack pragrammer, I am also interested in game making and AI related development
 - 🎓 I graduated in Msc Computer Science from Swansea University
-- ⚡ I'm passionate about making games and useful applications
-- 🎮 My hobbies: Blender 3D, 3D printing, Arduino, and playing video games
+- ⚡ I'm passionate about making games and useful applications with AI
+- 🎮 My hobbies: 3D printing and Arduino
 <!--
 **sunny199906/sunny199906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

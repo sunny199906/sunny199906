@@ -2,7 +2,7 @@
 - 🔭 I’m a full-stack pragrammer, I am also interested in game making and AI related development
 - 🎓 I graduated in Msc Computer Science from Swansea University
 - ⚡ I'm passionate about making games and useful applications with AI
-- 🎮 My hobbies: 3D printing and Arduino (Also Esp32)
+- 🎮 My hobbies: 3D printing and playing around IoT like Arduino and Esp32
 <!--
 **sunny199906/sunny199906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
